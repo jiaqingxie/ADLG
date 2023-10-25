@@ -1,0 +1,11 @@
+pytorch-lightning>=2.0
+pandas
+scikit-learn>=1.2.0
+jupyter
+jupyterlab
+seaborn
+matplotlib
+tqdm
+wandb>=0.14.0
+gensim
+plotly
