@@ -18,12 +18,12 @@ Paper: Design Space for Graph Neural Networks by Jiaxuan You et al. NeurIPS 2021
 ## 3. Course materials
 Under the Lecture Folder
 
-Available at ![ADLG](https://bmi.inf.ethz.ch/teaching/263-5056-00l-applications-of-deep-learning-on-graphs-autumn-2023)
+Available at [ADLG](https://bmi.inf.ethz.ch/teaching/263-5056-00l-applications-of-deep-learning-on-graphs-autumn-2023)
 
 ## 4. Exercise 
 To be annouced.
 
 ## 5. Additional materials
-1. ![Stanford CS 224W](https://web.stanford.edu/class/cs224w/)
+1. [Stanford CS 224W](https://web.stanford.edu/class/cs224w/)
 
 
