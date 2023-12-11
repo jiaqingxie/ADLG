@@ -33,7 +33,7 @@ Available at [ADLG](https://bmi.inf.ethz.ch/teaching/263-5056-00l-applications-o
 |  Graph Transformer | [pdf](/Lectures/L05-1_Guest_Lecture_Graph_Transformers.pdf)  | 18/10/2023  | /	  |
 
 ## 4. Exercise 
-To be annouced.
+No exercise this year. 
 
 ## 5. Additional materials
 1. [Stanford CS 224W](https://web.stanford.edu/class/cs224w/)
