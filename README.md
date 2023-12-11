@@ -4,15 +4,19 @@
 ## 1. Projects
 Under the Project Folder
 
-Project 1: Training GNNs DDL: 31/10/2023 Submitted
+Project 1: Training GNNs 5.75
 
-Project 2: To be announced.
+Project 2: GNNs on Knowledge and 3D Graphs DDL: 6/12/2023 Submitted
 
 
 ## 2. Presentation
 Under the Presentation Folder
 
 Paper: Design Space for Graph Neural Networks by Jiaxuan You et al. NeurIPS 2021
+
+Presenter: Jiaqing Xie, Ziheng Chi. Time: 29/11/2023
+
+File: [Slides](/Presentation/DesignSpace.pdf)
 
 
 ## 3. Course materials
@@ -26,4 +30,5 @@ To be annouced.
 ## 5. Additional materials
 1. [Stanford CS 224W](https://web.stanford.edu/class/cs224w/)
 
+2. [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges](/Geometric%20Deep%20Learning.pdf)
 
