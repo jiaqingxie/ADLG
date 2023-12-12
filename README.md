@@ -35,8 +35,10 @@ Available at [ADLG](https://bmi.inf.ethz.ch/teaching/263-5056-00l-applications-o
 |  Expressivity, Oversmoothing, Scalability | [pdf](/Lectures/L07-1_GNN_2023_Expressivity_Oversmoothing_Scalability.pdf)  | 1/11/2023  | /	  |
 |  Graph Manipulation & Self-Supervised Learning | [pdf](/Lectures/L08-GNN_2023_SSL.pdf)  | 8/11/2023  | /	  |
 |  Knowledge Graphs | [pdf](/Lectures/L09-1_Guest_Lecture_Knowledge_Graphs.pdf)  | 15/11/2023  | /	  |
-
-
+|  Clinical & Genomics Applications | [pdf](/Lectures/L10-1_Guest_Lecture_Combinatorial_prediction_of_therapeutic_targets_using_causally_inspired_GNN.pdf)  | 22/11/2023  | /	  |
+|  Generative Modelling on Graphs | [pdf](/Lectures/L11-1_Guest_Lecture_Deep_Generative_Models_for_Graph_Generation.pdf)  | 29/11/2023  | /	  |
+|  Physics-Inspired GNNs by Prof. Michael Bronstein  | pdf not given  | 06/12/2023  | /	|
+ 
 ## 4. Exercise 
 No exercise this year. 
 
